@@ -1,2 +1,2 @@
 polar:
-  greeting: "Welcome to the polar bookstore catalog form the config server"
+  greeting: "[Config Server] Welcome to the polar bookstore catalog!"
